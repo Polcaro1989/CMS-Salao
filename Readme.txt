@@ -19,7 +19,7 @@ Or Register a new user.
 REpositorio CMS/Salão
 
 Inline-style: 
-![alt text](https://drive.google.com/file/d/1RjhiEViq-wduY8Y9MW3xg4SK7j4J4AyA/view?usp=drive_link "Logo Title Text 1")
+![alt text](https://github.com/abraao69/CMS-Sal-o/blob/main-cms/imagem-capa-repositorio/WhatsApp%20Image%202023-09-14%20at%2018.18.47.jpeg"Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
