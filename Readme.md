@@ -18,3 +18,5 @@ Senha: Teste@123
 Ou registre um novo usuário.
 
 ![WhatsApp Image 2023-09-14 at 18 18 47](https://github.com/abraao69/CMS-Sal-o/assets/103331086/deef1204-026f-4f23-8ee0-b0fbac0008b8)
+
+https://github.com/abraao69/CMS-Sal-o/issues/2#issue-1898535999
