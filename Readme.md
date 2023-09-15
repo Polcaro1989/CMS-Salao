@@ -1,3 +1,4 @@
+
 How to run the Beauty Palour Management System (BPMS) Project
 1. Download the zip file
 2. Extract the file and copy bpms folder
