@@ -18,10 +18,6 @@ Or Register a new user.
 
 REpositorio CMS/Salão
 
-Inline-style: 
-![alt text](https://github.com/abraao69/CMS-Sal-o/blob/main-cms/imagem-capa-repositorio/WhatsApp%20Image%202023-09-14%20at%2018.18.47.jpeg"Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
