@@ -15,3 +15,13 @@ Credential for admin panel :
 Username: johndoe@gmail.com
 Password: Test@123
 Or Register a new user.
+
+REpositorio CMS/Salão
+
+Inline-style: 
+![alt text](https://drive.google.com/file/d/1RjhiEViq-wduY8Y9MW3xg4SK7j4J4AyA/view?usp=drive_link "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
