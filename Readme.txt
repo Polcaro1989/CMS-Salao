@@ -16,10 +16,4 @@ Username: johndoe@gmail.com
 Password: Test@123
 Or Register a new user.
 
-https://github.com/abraao69/CMS-Sal-o/issues/1#issue-1898380399
-
-
-<div align="center">
-<img src="
-https://github.com/abraao69/CMS-Sal-o/issues/1#issue-1898380399" width="700px" />
-</div>
+![WhatsApp Image 2023-09-14 at 18 18 47](https://github.com/abraao69/CMS-Sal-o/assets/103331086/deef1204-026f-4f23-8ee0-b0fbac0008b8)
