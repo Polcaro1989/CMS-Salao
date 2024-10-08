@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo">
+  <img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png">
   <br><br>
 </div>
 
